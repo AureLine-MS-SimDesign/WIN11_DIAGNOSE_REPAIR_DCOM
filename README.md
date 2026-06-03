@@ -46,7 +46,7 @@ Outputs a full list for further analysis.
 
 Gracefully restarts explorer.exe to apply changes immediately.
 
-   Purpose:
+    Purpose:
 This script is intended for:
 ✔ diagnosing and repairing Explorer.exe crashes and hangs
 ✔ cleaning corrupted or invalid COM/CLSID entries

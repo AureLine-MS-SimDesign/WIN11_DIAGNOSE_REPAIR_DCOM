@@ -50,15 +50,15 @@ Outputs a full list for further analysis.
 Gracefully restarts explorer.exe to apply changes immediately.
 
     Purpose:
+    
 This script is intended for:
-✔ diagnosing and repairing Explorer.exe crashes and hangs
-✔ cleaning corrupted or invalid COM/CLSID entries
-✔ removing problematic shell extensions
-✔ improving context menu performance
-✔ identifying unstable thumbnail/preview handlers
-✔ restoring stability after software uninstallations or registry corruption
-✔ It is especially useful on systems affected by:
-   heavy shell extension load
-   leftover entries from uninstalled software
-   broken COM registrations
-   Explorer slowdowns or freezes
+
+PWSH/PS1 Script prepared for diagnose and repair issues with DCOM/Component Services (Explorer.exe crashes and hangs):
+Cleaning corrupted or invalid COM/CLSID entries, removing problematic shell extensions, improving context menu performance,
+identifying unstable thumbnail/preview handlers, restoring stability after software uninstallations or registry corruption.
+It is especially useful on systems affected by heavy shell extension load, leftover entries from uninstalled software, 
+broken COM registrations Explorer slowdowns or freezes.
+
+03.06.2026
+Jacek Żaczek
+j.zaczek@post.pl
